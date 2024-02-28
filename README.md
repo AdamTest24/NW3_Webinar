@@ -11,9 +11,11 @@ Please find linked below everything you will require for your participation in t
 
 There is no assignment for the third Networks lesson.
  
-## 1-to-1 Tutor Support Sessions:
+## Lecture and Tutor Session:
 
-We have recently launched a new support service to students, whereby anyone with a particular query, can book a 30-minute video conference call with an L2D Tutor. [Instructions for how to enrol in a support session, can be found here.](/Tutor_Support_Booking_Instructions.pdf) Tutor availability is displayed on [this link](https://linktr.ee/L2DTutorSessions), from which support sessions can be booked.
+The lecture for this lesson topic will be held on **February 9th 2024, from 14:00-16:30 GMT**.
+
+The tutor session for this lesson topic will be held on **February 15th 2024**.
 
 ## Forum:
 - Access to our [Forum for questions and discussions is linked](https://github.com/orgs/L2D-October2023/discussions), and we encourage you to make use of this to post questions, initiate discussions and interact with others taking the course, and the L2D team.
